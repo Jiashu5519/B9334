@@ -63,7 +63,7 @@ def calculate_cumulative_returns(mdata, tt, min_periods):  # TODO: to be complet
     
     cret = cret.to_frame()
     cret = cret.reset_index()
-    cret = cret.groupby('permno').retadj.shift(1)
+    cret = cret.groupby('permno').retadj.shift(2) # skip 1 and lag 1 period
     
     ## sort_problem
     mdata = mdata.reset_index().sort_values(['permno', 'date'])
