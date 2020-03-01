@@ -1,0 +1,29 @@
+commit 13a0dc7a20165c1e6b7473b90251048f64e29f12
+Author: 孙嘉澍 <sunjs@sunjiashudeMacBook-Pro.local>
+Date:   Wed Feb 26 13:56:38 2020 -0500
+
+    revise the solutions to homework2
+
+commit b561797c01f6edd5c8241b1e4702da6d8b451294
+Author: 孙嘉澍 <sunjs@sunjiashudeMBP.lan1>
+Date:   Wed Feb 26 08:59:19 2020 -0500
+
+    Solution to questions
+
+commit 71cc28005f5d70fea376fce2c4ebd2e419ebb603
+Author: 孙嘉澍 <sunjs@sunjiashudeMBP.lan1>
+Date:   Wed Feb 26 07:53:28 2020 -0500
+
+    Finish portfolio_sorts_skeleton.py
+
+commit 21ebe2a41ad46d1de68621d12e111373ccf81f7c
+Author: 孙嘉澍 <sunjs@sunjiashudeMBP.lan1>
+Date:   Wed Feb 26 00:02:14 2020 -0500
+
+    add monthly annual stock file
+
+commit df87c7d7eb37f1c65762903b0ce8376263814fc1
+Author: Jiashu <54906645+Chloe5519@users.noreply.github.com>
+Date:   Tue Feb 25 15:13:57 2020 -0500
+
+    Initial commit
